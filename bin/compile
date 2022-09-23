@@ -8,5 +8,3 @@ export CACHE_DIR=$2
 export ENV_DIR=$3
 
 cd "$BUILD_DIR"
-
-npm install -g angular-cli
